@@ -89,10 +89,10 @@
         <div class="votesection" id="votesection1">
           <section style="z-index: 3;" class="center votelinks">
             <img style="position: absolute; right: -25px; bottom: -105px; width: 180px;" class="hide-mobile" src="/assets/images/sweet-berries.webp" alt="Minecraft Sweet Berries">
-            <h3>Voting Sites</h3>
+            <h3>Reward Sites</h3>
             <div>
               <h4>minecraftpocket-servers.com</h4>
-              <a href="https://minecraftpocket-servers.com/server/122945/" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote!</button></a>
+              <a href="https://minecraftpocket-servers.com/server/122945/vote/" target="_blank"><button type="button" id="vote1" onclick="buttonClicked('vote1')">Vote!</button></a>
             </div>
             <div>
               <h4>minecraftsurvivalservers.net</h4>
@@ -114,6 +114,9 @@
               <h4>minecraft.buzz</h4>
               <a href="https://minecraft.buzz/vote/7264" target="_blank"><button type="button" id="vote6" onclick="buttonClicked('vote6')">Vote!</button></a>
             </div>
+          </section>
+          <section class="center votelinks">
+            <h3>Other Sites</h3>
             <div>
               <h4>minecraft-serverlist.com</h4>
               <a href="https://minecraft-serverlist.com/server/473/vote" target="_blank"><button type="button" id="vote7" onclick="buttonClicked('vote7')">Vote!</button></a>
@@ -125,6 +128,12 @@
           </section>
         </div>
         <div class="votesection" id="votesection2">
+          <section class="center">
+            <h3>Rewards!</h3>
+            <p>1 Vote Crate for every vote! PLUS 1 Premium Crate for voting 7 days in a row!</p>
+            <p><strong>NEW!</strong> Purchase a Rank and get DOUBLE Premium Crates from voting!</p>
+            <p><a target="_blank" href="https://semivanilla.tebex.io/category/ranks">Click here to see available ranks!</a></p>
+          </section>
           <section class="center">
             <h3>Reddit</h3>
             <p>We are also listed on /r/mcservers! Find our latest post to upvote and comment!</p>
