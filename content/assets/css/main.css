@@ -351,6 +351,7 @@ footer p {
 
 #main-nav > div, footer > div {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   height: 100%;
 }
@@ -855,7 +856,10 @@ button:hover {
   .ip {
     font-size: 1.6rem;
   }
-}
+  .adsbygoogle {
+    width: 80% !important;
+    margin: auto;
+  }
 
 @media (max-width: 500px) {
 /*
