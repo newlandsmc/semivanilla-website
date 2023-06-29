@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>SemiVanilla | 1.20 Minecraft Survival Server</title>
+    <title>SemiVanilla | 1.20.1 Minecraft Survival Server</title>
     <meta name="description" content="SemiVanilla is a new Minecraft server with bare minimum plugins and modifications to the vanilla experience. The goal is to provide the best semivanilla experience out there!" />
     <meta property="og:description" content="SemiVanilla is a new Minecraft server with bare minimum plugins and modifications to the vanilla experience. The goal is to provide the best semivanilla experience out there!" />
     <meta name="twitter:description" content="SemiVanilla is a new Minecraft server with bare minimum plugins and modifications to the vanilla experience. The goal is to provide the best semivanilla experience out there!" />
@@ -73,7 +73,7 @@
       <div class="title" style="position: absolute; z-index: 3;">
         <div class="landing-title-text" style="text-align: center;">
           <img class="landing-logo hide-mobile-2" src="/assets/images/logo.webp" alt="SemiVanilla Logo" />
-          <h1 style="margin: 30px;">1.20 Survival Server!</h1>
+          <h1 style="margin: 30px;">1.20.1 Survival Server!</h1>
           <p class="ip">play.semivanilla.com</p>
           <div style="width:100%">
             <button type="button" class="copyip-button" id="cb1" onclick="copyToClipboard('cb1','play.semivanilla.com','https://semivanilla.com/join')">Copy IP!</button>
