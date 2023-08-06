@@ -97,22 +97,36 @@
             <p>SemiVanilla is a new Minecraft server with bare minimum plugins and modifications to the vanilla experience The goal is to provide the best "semivanilla" experience out there.</p>
           </div>
         </section>
-        <section class="center">
-          <div>
-            <img class="medium" style="max-width: 70%;" src="/assets/images/features-map.webp" alt="Digital art of a Minecraft map" />
-          </div>
-          <div>
-            <h3>Random Spawn</h3>
-            <p>Every player starts somewhere new, there is no main spawn! This gives everyone the same vanilla-like experience when starting out. Our world is 50K by 50K to give everyone room to spread out and the best chance that every new player will start somewhere unique!</p>
+        <section class="center" id="discord-widget">
+          <img class="hide-mobile-3" src="/assets/images/community-writing.webp" alt="Word community with arrow pointing to Discord" style="position: absolute; top: 700px; left: -100px; width: 200px;">
+          <div style="width: 100%;">
+            <widgetbot
+              server="1088589321776406538"
+              channel="1088589323693215787"
+              width="90%"
+              height="500px"
+            ></widgetbot>
+            <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
           </div>
         </section>
         <section class="center">
           <div>
-            <h3>Land Claiming</h3>
-            <p>One of the few non-vanilla features we have is land claiming, and the ability to teleport to your land claims. Your builds are always safe, even when you are offline. <a href="/claiming">Learn more about GriefPrevention here</a>.</p>
+            <h3>Random Spawn</h3>
+            <p>Every player starts somewhere new, there is no main spawn! This gives everyone the same vanilla-like experience when starting out. Our world is 50K by 50K to give everyone room to spread out and the best chance that every new player will start somewhere unique!</p>
           </div>
           <div>
-            <img class="wide" style="max-width: 70%;" src="/assets/images/features-castle.webp" alt="Digital art of Minecraft style castle" />
+            <img class="medium" style="max-width: 70%;" src="/assets/images/features-map.webp" alt="Digital art of a Minecraft map" 
+/>
+          </div>
+        </section>
+        <section class="center">
+          <div>
+            <img class="wide" style="max-width: 70%;" src="/assets/images/features-castle.webp" alt="Digital art of Minecraft style 
+castle" />
+          </div>
+          <div>
+            <h3>Land Claiming</h3>
+            <p>One of the few non-vanilla features we have is land claiming, and the ability to teleport to your land claims. Your builds are always safe, even when you are offline. <a href="/claiming">Learn more about GriefPrevention here</a>.</p>
           </div>
         </section>
       </div>
