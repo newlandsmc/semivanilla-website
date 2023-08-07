@@ -97,17 +97,9 @@
             <p>SemiVanilla is a new Minecraft server with bare minimum plugins and modifications to the vanilla experience The goal is to provide the best "semivanilla" experience out there.</p>
           </div>
         </section>
-        <section class="center" id="discord-widget">
-          <img class="hide-mobile-3" src="/assets/images/community-writing.webp" alt="Word community with arrow pointing to Discord" style="position: absolute; top: 700px; left: -100px; width: 200px;">
-          <div style="width: 100%;">
-            <widgetbot
-              server="1088589321776406538"
-              channel="1088589323693215787"
-              width="90%"
-              height="500px"
-            ></widgetbot>
-            <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-          </div>
+        <section class="center" style="padding: 100px 0 50px 0;">
+          <img class="hide-mobile-3" src="/assets/images/community-writing.webp" alt="Word community with arrow pointing to Discord" style="position: absolute; top: 700px; left: 80px; width: 200px;">
+          <iframe id="discord-iframe" src="https://discord.com/widget?id=1088589321776406538&theme=dark" width="380px" height="500px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         </section>
         <section class="center">
           <div>
